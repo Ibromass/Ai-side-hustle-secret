@@ -1,0 +1,303 @@
+THE 300 AI PROMPTS — ORGANIZED BY SERVICE
+Use as starting points, not as a substitute for professional judgment. Replace bracketed details. Verify facts and tool terms. Do not enter sensitive personal or customer information into tools unless you have a lawful, appropriate basis and understand the tool’s data terms.
+
+001. [Graphic design] Help me define the target audience, their practical need and a suitable first deliverable for Graphic design.
+002. [Graphic design] Create a beginner learning path for Graphic design with three practice exercises.
+003. [Graphic design] Draft a project brief for a clearly labeled sample project using Graphic design.
+004. [Graphic design] List the inputs and customer questions I need before starting Graphic design work.
+005. [Graphic design] Create a quality checklist for reviewing a Graphic design deliverable before sharing.
+006. [Graphic design] Suggest three portfolio sample ideas for Graphic design that do not imply paid client experience.
+007. [Graphic design] Draft a service page outline for Graphic design using scope, process, deliverables and boundaries.
+008. [Graphic design] Write a discovery questionnaire for a potential customer interested in Graphic design.
+009. [Graphic design] Create a short proposal structure for a Graphic design project with editable placeholders.
+010. [Graphic design] List common mistakes beginners make in Graphic design and how to check for them.
+011. [Graphic design] Suggest a simple workflow from customer brief to final delivery for Graphic design.
+012. [Graphic design] Create a feedback form to learn whether a Graphic design deliverable met the stated brief.
+013. [Graphic design] Rewrite this Graphic design draft for clarity and accessibility using only these facts: [facts].
+014. [Graphic design] Suggest accessible design and readability checks for a Graphic design deliverable.
+015. [Graphic design] Identify assumptions or unsupported claims in this Graphic design draft: [draft].
+016. [Graphic design] Create a time estimate template for Graphic design based on tasks and revisions.
+017. [Graphic design] Draft a respectful first message offering Graphic design to a business that may need it.
+018. [Graphic design] List privacy, consent, copyright and accuracy checks for this Graphic design workflow.
+019. [Graphic design] Create a handover checklist for a completed Graphic design project.
+020. [Graphic design] Help me review what I learned in this Graphic design practice project and pick one next step.
+021. [Social media management] Help me define the target audience, their practical need and a suitable first deliverable for Social media management.
+022. [Social media management] Create a beginner learning path for Social media management with three practice exercises.
+023. [Social media management] Draft a project brief for a clearly labeled sample project using Social media management.
+024. [Social media management] List the inputs and customer questions I need before starting Social media management work.
+025. [Social media management] Create a quality checklist for reviewing a Social media management deliverable before sharing.
+026. [Social media management] Suggest three portfolio sample ideas for Social media management that do not imply paid client experience.
+027. [Social media management] Draft a service page outline for Social media management using scope, process, deliverables and boundaries.
+028. [Social media management] Write a discovery questionnaire for a potential customer interested in Social media management.
+029. [Social media management] Create a short proposal structure for a Social media management project with editable placeholders.
+030. [Social media management] List common mistakes beginners make in Social media management and how to check for them.
+031. [Social media management] Suggest a simple workflow from customer brief to final delivery for Social media management.
+032. [Social media management] Create a feedback form to learn whether a Social media management deliverable met the stated brief.
+033. [Social media management] Rewrite this Social media management draft for clarity and accessibility using only these facts: [facts].
+034. [Social media management] Suggest accessible design and readability checks for a Social media management deliverable.
+035. [Social media management] Identify assumptions or unsupported claims in this Social media management draft: [draft].
+036. [Social media management] Create a time estimate template for Social media management based on tasks and revisions.
+037. [Social media management] Draft a respectful first message offering Social media management to a business that may need it.
+038. [Social media management] List privacy, consent, copyright and accuracy checks for this Social media management workflow.
+039. [Social media management] Create a handover checklist for a completed Social media management project.
+040. [Social media management] Help me review what I learned in this Social media management practice project and pick one next step.
+041. [Copywriting] Help me define the target audience, their practical need and a suitable first deliverable for Copywriting.
+042. [Copywriting] Create a beginner learning path for Copywriting with three practice exercises.
+043. [Copywriting] Draft a project brief for a clearly labeled sample project using Copywriting.
+044. [Copywriting] List the inputs and customer questions I need before starting Copywriting work.
+045. [Copywriting] Create a quality checklist for reviewing a Copywriting deliverable before sharing.
+046. [Copywriting] Suggest three portfolio sample ideas for Copywriting that do not imply paid client experience.
+047. [Copywriting] Draft a service page outline for Copywriting using scope, process, deliverables and boundaries.
+048. [Copywriting] Write a discovery questionnaire for a potential customer interested in Copywriting.
+049. [Copywriting] Create a short proposal structure for a Copywriting project with editable placeholders.
+050. [Copywriting] List common mistakes beginners make in Copywriting and how to check for them.
+051. [Copywriting] Suggest a simple workflow from customer brief to final delivery for Copywriting.
+052. [Copywriting] Create a feedback form to learn whether a Copywriting deliverable met the stated brief.
+053. [Copywriting] Rewrite this Copywriting draft for clarity and accessibility using only these facts: [facts].
+054. [Copywriting] Suggest accessible design and readability checks for a Copywriting deliverable.
+055. [Copywriting] Identify assumptions or unsupported claims in this Copywriting draft: [draft].
+056. [Copywriting] Create a time estimate template for Copywriting based on tasks and revisions.
+057. [Copywriting] Draft a respectful first message offering Copywriting to a business that may need it.
+058. [Copywriting] List privacy, consent, copyright and accuracy checks for this Copywriting workflow.
+059. [Copywriting] Create a handover checklist for a completed Copywriting project.
+060. [Copywriting] Help me review what I learned in this Copywriting practice project and pick one next step.
+061. [Website and landing-page creation] Help me define the target audience, their practical need and a suitable first deliverable for Website and landing-page creation.
+062. [Website and landing-page creation] Create a beginner learning path for Website and landing-page creation with three practice exercises.
+063. [Website and landing-page creation] Draft a project brief for a clearly labeled sample project using Website and landing-page creation.
+064. [Website and landing-page creation] List the inputs and customer questions I need before starting Website and landing-page creation work.
+065. [Website and landing-page creation] Create a quality checklist for reviewing a Website and landing-page creation deliverable before sharing.
+066. [Website and landing-page creation] Suggest three portfolio sample ideas for Website and landing-page creation that do not imply paid client experience.
+067. [Website and landing-page creation] Draft a service page outline for Website and landing-page creation using scope, process, deliverables and boundaries.
+068. [Website and landing-page creation] Write a discovery questionnaire for a potential customer interested in Website and landing-page creation.
+069. [Website and landing-page creation] Create a short proposal structure for a Website and landing-page creation project with editable placeholders.
+070. [Website and landing-page creation] List common mistakes beginners make in Website and landing-page creation and how to check for them.
+071. [Website and landing-page creation] Suggest a simple workflow from customer brief to final delivery for Website and landing-page creation.
+072. [Website and landing-page creation] Create a feedback form to learn whether a Website and landing-page creation deliverable met the stated brief.
+073. [Website and landing-page creation] Rewrite this Website and landing-page creation draft for clarity and accessibility using only these facts: [facts].
+074. [Website and landing-page creation] Suggest accessible design and readability checks for a Website and landing-page creation deliverable.
+075. [Website and landing-page creation] Identify assumptions or unsupported claims in this Website and landing-page creation draft: [draft].
+076. [Website and landing-page creation] Create a time estimate template for Website and landing-page creation based on tasks and revisions.
+077. [Website and landing-page creation] Draft a respectful first message offering Website and landing-page creation to a business that may need it.
+078. [Website and landing-page creation] List privacy, consent, copyright and accuracy checks for this Website and landing-page creation workflow.
+079. [Website and landing-page creation] Create a handover checklist for a completed Website and landing-page creation project.
+080. [Website and landing-page creation] Help me review what I learned in this Website and landing-page creation practice project and pick one next step.
+081. [Video creation and editing] Help me define the target audience, their practical need and a suitable first deliverable for Video creation and editing.
+082. [Video creation and editing] Create a beginner learning path for Video creation and editing with three practice exercises.
+083. [Video creation and editing] Draft a project brief for a clearly labeled sample project using Video creation and editing.
+084. [Video creation and editing] List the inputs and customer questions I need before starting Video creation and editing work.
+085. [Video creation and editing] Create a quality checklist for reviewing a Video creation and editing deliverable before sharing.
+086. [Video creation and editing] Suggest three portfolio sample ideas for Video creation and editing that do not imply paid client experience.
+087. [Video creation and editing] Draft a service page outline for Video creation and editing using scope, process, deliverables and boundaries.
+088. [Video creation and editing] Write a discovery questionnaire for a potential customer interested in Video creation and editing.
+089. [Video creation and editing] Create a short proposal structure for a Video creation and editing project with editable placeholders.
+090. [Video creation and editing] List common mistakes beginners make in Video creation and editing and how to check for them.
+091. [Video creation and editing] Suggest a simple workflow from customer brief to final delivery for Video creation and editing.
+092. [Video creation and editing] Create a feedback form to learn whether a Video creation and editing deliverable met the stated brief.
+093. [Video creation and editing] Rewrite this Video creation and editing draft for clarity and accessibility using only these facts: [facts].
+094. [Video creation and editing] Suggest accessible design and readability checks for a Video creation and editing deliverable.
+095. [Video creation and editing] Identify assumptions or unsupported claims in this Video creation and editing draft: [draft].
+096. [Video creation and editing] Create a time estimate template for Video creation and editing based on tasks and revisions.
+097. [Video creation and editing] Draft a respectful first message offering Video creation and editing to a business that may need it.
+098. [Video creation and editing] List privacy, consent, copyright and accuracy checks for this Video creation and editing workflow.
+099. [Video creation and editing] Create a handover checklist for a completed Video creation and editing project.
+100. [Video creation and editing] Help me review what I learned in this Video creation and editing practice project and pick one next step.
+101. [CV and career documents] Help me define the target audience, their practical need and a suitable first deliverable for CV and career documents.
+102. [CV and career documents] Create a beginner learning path for CV and career documents with three practice exercises.
+103. [CV and career documents] Draft a project brief for a clearly labeled sample project using CV and career documents.
+104. [CV and career documents] List the inputs and customer questions I need before starting CV and career documents work.
+105. [CV and career documents] Create a quality checklist for reviewing a CV and career documents deliverable before sharing.
+106. [CV and career documents] Suggest three portfolio sample ideas for CV and career documents that do not imply paid client experience.
+107. [CV and career documents] Draft a service page outline for CV and career documents using scope, process, deliverables and boundaries.
+108. [CV and career documents] Write a discovery questionnaire for a potential customer interested in CV and career documents.
+109. [CV and career documents] Create a short proposal structure for a CV and career documents project with editable placeholders.
+110. [CV and career documents] List common mistakes beginners make in CV and career documents and how to check for them.
+111. [CV and career documents] Suggest a simple workflow from customer brief to final delivery for CV and career documents.
+112. [CV and career documents] Create a feedback form to learn whether a CV and career documents deliverable met the stated brief.
+113. [CV and career documents] Rewrite this CV and career documents draft for clarity and accessibility using only these facts: [facts].
+114. [CV and career documents] Suggest accessible design and readability checks for a CV and career documents deliverable.
+115. [CV and career documents] Identify assumptions or unsupported claims in this CV and career documents draft: [draft].
+116. [CV and career documents] Create a time estimate template for CV and career documents based on tasks and revisions.
+117. [CV and career documents] Draft a respectful first message offering CV and career documents to a business that may need it.
+118. [CV and career documents] List privacy, consent, copyright and accuracy checks for this CV and career documents workflow.
+119. [CV and career documents] Create a handover checklist for a completed CV and career documents project.
+120. [CV and career documents] Help me review what I learned in this CV and career documents practice project and pick one next step.
+121. [Ebook creation] Help me define the target audience, their practical need and a suitable first deliverable for Ebook creation.
+122. [Ebook creation] Create a beginner learning path for Ebook creation with three practice exercises.
+123. [Ebook creation] Draft a project brief for a clearly labeled sample project using Ebook creation.
+124. [Ebook creation] List the inputs and customer questions I need before starting Ebook creation work.
+125. [Ebook creation] Create a quality checklist for reviewing a Ebook creation deliverable before sharing.
+126. [Ebook creation] Suggest three portfolio sample ideas for Ebook creation that do not imply paid client experience.
+127. [Ebook creation] Draft a service page outline for Ebook creation using scope, process, deliverables and boundaries.
+128. [Ebook creation] Write a discovery questionnaire for a potential customer interested in Ebook creation.
+129. [Ebook creation] Create a short proposal structure for a Ebook creation project with editable placeholders.
+130. [Ebook creation] List common mistakes beginners make in Ebook creation and how to check for them.
+131. [Ebook creation] Suggest a simple workflow from customer brief to final delivery for Ebook creation.
+132. [Ebook creation] Create a feedback form to learn whether a Ebook creation deliverable met the stated brief.
+133. [Ebook creation] Rewrite this Ebook creation draft for clarity and accessibility using only these facts: [facts].
+134. [Ebook creation] Suggest accessible design and readability checks for a Ebook creation deliverable.
+135. [Ebook creation] Identify assumptions or unsupported claims in this Ebook creation draft: [draft].
+136. [Ebook creation] Create a time estimate template for Ebook creation based on tasks and revisions.
+137. [Ebook creation] Draft a respectful first message offering Ebook creation to a business that may need it.
+138. [Ebook creation] List privacy, consent, copyright and accuracy checks for this Ebook creation workflow.
+139. [Ebook creation] Create a handover checklist for a completed Ebook creation project.
+140. [Ebook creation] Help me review what I learned in this Ebook creation practice project and pick one next step.
+141. [Product photography and mockups] Help me define the target audience, their practical need and a suitable first deliverable for Product photography and mockups.
+142. [Product photography and mockups] Create a beginner learning path for Product photography and mockups with three practice exercises.
+143. [Product photography and mockups] Draft a project brief for a clearly labeled sample project using Product photography and mockups.
+144. [Product photography and mockups] List the inputs and customer questions I need before starting Product photography and mockups work.
+145. [Product photography and mockups] Create a quality checklist for reviewing a Product photography and mockups deliverable before sharing.
+146. [Product photography and mockups] Suggest three portfolio sample ideas for Product photography and mockups that do not imply paid client experience.
+147. [Product photography and mockups] Draft a service page outline for Product photography and mockups using scope, process, deliverables and boundaries.
+148. [Product photography and mockups] Write a discovery questionnaire for a potential customer interested in Product photography and mockups.
+149. [Product photography and mockups] Create a short proposal structure for a Product photography and mockups project with editable placeholders.
+150. [Product photography and mockups] List common mistakes beginners make in Product photography and mockups and how to check for them.
+151. [Product photography and mockups] Suggest a simple workflow from customer brief to final delivery for Product photography and mockups.
+152. [Product photography and mockups] Create a feedback form to learn whether a Product photography and mockups deliverable met the stated brief.
+153. [Product photography and mockups] Rewrite this Product photography and mockups draft for clarity and accessibility using only these facts: [facts].
+154. [Product photography and mockups] Suggest accessible design and readability checks for a Product photography and mockups deliverable.
+155. [Product photography and mockups] Identify assumptions or unsupported claims in this Product photography and mockups draft: [draft].
+156. [Product photography and mockups] Create a time estimate template for Product photography and mockups based on tasks and revisions.
+157. [Product photography and mockups] Draft a respectful first message offering Product photography and mockups to a business that may need it.
+158. [Product photography and mockups] List privacy, consent, copyright and accuracy checks for this Product photography and mockups workflow.
+159. [Product photography and mockups] Create a handover checklist for a completed Product photography and mockups project.
+160. [Product photography and mockups] Help me review what I learned in this Product photography and mockups practice project and pick one next step.
+161. [Freelancing] Help me define the target audience, their practical need and a suitable first deliverable for Freelancing.
+162. [Freelancing] Create a beginner learning path for Freelancing with three practice exercises.
+163. [Freelancing] Draft a project brief for a clearly labeled sample project using Freelancing.
+164. [Freelancing] List the inputs and customer questions I need before starting Freelancing work.
+165. [Freelancing] Create a quality checklist for reviewing a Freelancing deliverable before sharing.
+166. [Freelancing] Suggest three portfolio sample ideas for Freelancing that do not imply paid client experience.
+167. [Freelancing] Draft a service page outline for Freelancing using scope, process, deliverables and boundaries.
+168. [Freelancing] Write a discovery questionnaire for a potential customer interested in Freelancing.
+169. [Freelancing] Create a short proposal structure for a Freelancing project with editable placeholders.
+170. [Freelancing] List common mistakes beginners make in Freelancing and how to check for them.
+171. [Freelancing] Suggest a simple workflow from customer brief to final delivery for Freelancing.
+172. [Freelancing] Create a feedback form to learn whether a Freelancing deliverable met the stated brief.
+173. [Freelancing] Rewrite this Freelancing draft for clarity and accessibility using only these facts: [facts].
+174. [Freelancing] Suggest accessible design and readability checks for a Freelancing deliverable.
+175. [Freelancing] Identify assumptions or unsupported claims in this Freelancing draft: [draft].
+176. [Freelancing] Create a time estimate template for Freelancing based on tasks and revisions.
+177. [Freelancing] Draft a respectful first message offering Freelancing to a business that may need it.
+178. [Freelancing] List privacy, consent, copyright and accuracy checks for this Freelancing workflow.
+179. [Freelancing] Create a handover checklist for a completed Freelancing project.
+180. [Freelancing] Help me review what I learned in this Freelancing practice project and pick one next step.
+181. [Digital marketing] Help me define the target audience, their practical need and a suitable first deliverable for Digital marketing.
+182. [Digital marketing] Create a beginner learning path for Digital marketing with three practice exercises.
+183. [Digital marketing] Draft a project brief for a clearly labeled sample project using Digital marketing.
+184. [Digital marketing] List the inputs and customer questions I need before starting Digital marketing work.
+185. [Digital marketing] Create a quality checklist for reviewing a Digital marketing deliverable before sharing.
+186. [Digital marketing] Suggest three portfolio sample ideas for Digital marketing that do not imply paid client experience.
+187. [Digital marketing] Draft a service page outline for Digital marketing using scope, process, deliverables and boundaries.
+188. [Digital marketing] Write a discovery questionnaire for a potential customer interested in Digital marketing.
+189. [Digital marketing] Create a short proposal structure for a Digital marketing project with editable placeholders.
+190. [Digital marketing] List common mistakes beginners make in Digital marketing and how to check for them.
+191. [Digital marketing] Suggest a simple workflow from customer brief to final delivery for Digital marketing.
+192. [Digital marketing] Create a feedback form to learn whether a Digital marketing deliverable met the stated brief.
+193. [Digital marketing] Rewrite this Digital marketing draft for clarity and accessibility using only these facts: [facts].
+194. [Digital marketing] Suggest accessible design and readability checks for a Digital marketing deliverable.
+195. [Digital marketing] Identify assumptions or unsupported claims in this Digital marketing draft: [draft].
+196. [Digital marketing] Create a time estimate template for Digital marketing based on tasks and revisions.
+197. [Digital marketing] Draft a respectful first message offering Digital marketing to a business that may need it.
+198. [Digital marketing] List privacy, consent, copyright and accuracy checks for this Digital marketing workflow.
+199. [Digital marketing] Create a handover checklist for a completed Digital marketing project.
+200. [Digital marketing] Help me review what I learned in this Digital marketing practice project and pick one next step.
+201. [WhatsApp Business marketing] Help me define the target audience, their practical need and a suitable first deliverable for WhatsApp Business marketing.
+202. [WhatsApp Business marketing] Create a beginner learning path for WhatsApp Business marketing with three practice exercises.
+203. [WhatsApp Business marketing] Draft a project brief for a clearly labeled sample project using WhatsApp Business marketing.
+204. [WhatsApp Business marketing] List the inputs and customer questions I need before starting WhatsApp Business marketing work.
+205. [WhatsApp Business marketing] Create a quality checklist for reviewing a WhatsApp Business marketing deliverable before sharing.
+206. [WhatsApp Business marketing] Suggest three portfolio sample ideas for WhatsApp Business marketing that do not imply paid client experience.
+207. [WhatsApp Business marketing] Draft a service page outline for WhatsApp Business marketing using scope, process, deliverables and boundaries.
+208. [WhatsApp Business marketing] Write a discovery questionnaire for a potential customer interested in WhatsApp Business marketing.
+209. [WhatsApp Business marketing] Create a short proposal structure for a WhatsApp Business marketing project with editable placeholders.
+210. [WhatsApp Business marketing] List common mistakes beginners make in WhatsApp Business marketing and how to check for them.
+211. [WhatsApp Business marketing] Suggest a simple workflow from customer brief to final delivery for WhatsApp Business marketing.
+212. [WhatsApp Business marketing] Create a feedback form to learn whether a WhatsApp Business marketing deliverable met the stated brief.
+213. [WhatsApp Business marketing] Rewrite this WhatsApp Business marketing draft for clarity and accessibility using only these facts: [facts].
+214. [WhatsApp Business marketing] Suggest accessible design and readability checks for a WhatsApp Business marketing deliverable.
+215. [WhatsApp Business marketing] Identify assumptions or unsupported claims in this WhatsApp Business marketing draft: [draft].
+216. [WhatsApp Business marketing] Create a time estimate template for WhatsApp Business marketing based on tasks and revisions.
+217. [WhatsApp Business marketing] Draft a respectful first message offering WhatsApp Business marketing to a business that may need it.
+218. [WhatsApp Business marketing] List privacy, consent, copyright and accuracy checks for this WhatsApp Business marketing workflow.
+219. [WhatsApp Business marketing] Create a handover checklist for a completed WhatsApp Business marketing project.
+220. [WhatsApp Business marketing] Help me review what I learned in this WhatsApp Business marketing practice project and pick one next step.
+221. [Workflow automation] Help me define the target audience, their practical need and a suitable first deliverable for Workflow automation.
+222. [Workflow automation] Create a beginner learning path for Workflow automation with three practice exercises.
+223. [Workflow automation] Draft a project brief for a clearly labeled sample project using Workflow automation.
+224. [Workflow automation] List the inputs and customer questions I need before starting Workflow automation work.
+225. [Workflow automation] Create a quality checklist for reviewing a Workflow automation deliverable before sharing.
+226. [Workflow automation] Suggest three portfolio sample ideas for Workflow automation that do not imply paid client experience.
+227. [Workflow automation] Draft a service page outline for Workflow automation using scope, process, deliverables and boundaries.
+228. [Workflow automation] Write a discovery questionnaire for a potential customer interested in Workflow automation.
+229. [Workflow automation] Create a short proposal structure for a Workflow automation project with editable placeholders.
+230. [Workflow automation] List common mistakes beginners make in Workflow automation and how to check for them.
+231. [Workflow automation] Suggest a simple workflow from customer brief to final delivery for Workflow automation.
+232. [Workflow automation] Create a feedback form to learn whether a Workflow automation deliverable met the stated brief.
+233. [Workflow automation] Rewrite this Workflow automation draft for clarity and accessibility using only these facts: [facts].
+234. [Workflow automation] Suggest accessible design and readability checks for a Workflow automation deliverable.
+235. [Workflow automation] Identify assumptions or unsupported claims in this Workflow automation draft: [draft].
+236. [Workflow automation] Create a time estimate template for Workflow automation based on tasks and revisions.
+237. [Workflow automation] Draft a respectful first message offering Workflow automation to a business that may need it.
+238. [Workflow automation] List privacy, consent, copyright and accuracy checks for this Workflow automation workflow.
+239. [Workflow automation] Create a handover checklist for a completed Workflow automation project.
+240. [Workflow automation] Help me review what I learned in this Workflow automation practice project and pick one next step.
+241. [Online courses and digital training] Help me define the target audience, their practical need and a suitable first deliverable for Online courses and digital training.
+242. [Online courses and digital training] Create a beginner learning path for Online courses and digital training with three practice exercises.
+243. [Online courses and digital training] Draft a project brief for a clearly labeled sample project using Online courses and digital training.
+244. [Online courses and digital training] List the inputs and customer questions I need before starting Online courses and digital training work.
+245. [Online courses and digital training] Create a quality checklist for reviewing a Online courses and digital training deliverable before sharing.
+246. [Online courses and digital training] Suggest three portfolio sample ideas for Online courses and digital training that do not imply paid client experience.
+247. [Online courses and digital training] Draft a service page outline for Online courses and digital training using scope, process, deliverables and boundaries.
+248. [Online courses and digital training] Write a discovery questionnaire for a potential customer interested in Online courses and digital training.
+249. [Online courses and digital training] Create a short proposal structure for a Online courses and digital training project with editable placeholders.
+250. [Online courses and digital training] List common mistakes beginners make in Online courses and digital training and how to check for them.
+251. [Online courses and digital training] Suggest a simple workflow from customer brief to final delivery for Online courses and digital training.
+252. [Online courses and digital training] Create a feedback form to learn whether a Online courses and digital training deliverable met the stated brief.
+253. [Online courses and digital training] Rewrite this Online courses and digital training draft for clarity and accessibility using only these facts: [facts].
+254. [Online courses and digital training] Suggest accessible design and readability checks for a Online courses and digital training deliverable.
+255. [Online courses and digital training] Identify assumptions or unsupported claims in this Online courses and digital training draft: [draft].
+256. [Online courses and digital training] Create a time estimate template for Online courses and digital training based on tasks and revisions.
+257. [Online courses and digital training] Draft a respectful first message offering Online courses and digital training to a business that may need it.
+258. [Online courses and digital training] List privacy, consent, copyright and accuracy checks for this Online courses and digital training workflow.
+259. [Online courses and digital training] Create a handover checklist for a completed Online courses and digital training project.
+260. [Online courses and digital training] Help me review what I learned in this Online courses and digital training practice project and pick one next step.
+261. [YouTube content] Help me define the target audience, their practical need and a suitable first deliverable for YouTube content.
+262. [YouTube content] Create a beginner learning path for YouTube content with three practice exercises.
+263. [YouTube content] Draft a project brief for a clearly labeled sample project using YouTube content.
+264. [YouTube content] List the inputs and customer questions I need before starting YouTube content work.
+265. [YouTube content] Create a quality checklist for reviewing a YouTube content deliverable before sharing.
+266. [YouTube content] Suggest three portfolio sample ideas for YouTube content that do not imply paid client experience.
+267. [YouTube content] Draft a service page outline for YouTube content using scope, process, deliverables and boundaries.
+268. [YouTube content] Write a discovery questionnaire for a potential customer interested in YouTube content.
+269. [YouTube content] Create a short proposal structure for a YouTube content project with editable placeholders.
+270. [YouTube content] List common mistakes beginners make in YouTube content and how to check for them.
+271. [YouTube content] Suggest a simple workflow from customer brief to final delivery for YouTube content.
+272. [YouTube content] Create a feedback form to learn whether a YouTube content deliverable met the stated brief.
+273. [YouTube content] Rewrite this YouTube content draft for clarity and accessibility using only these facts: [facts].
+274. [YouTube content] Suggest accessible design and readability checks for a YouTube content deliverable.
+275. [YouTube content] Identify assumptions or unsupported claims in this YouTube content draft: [draft].
+276. [YouTube content] Create a time estimate template for YouTube content based on tasks and revisions.
+277. [YouTube content] Draft a respectful first message offering YouTube content to a business that may need it.
+278. [YouTube content] List privacy, consent, copyright and accuracy checks for this YouTube content workflow.
+279. [YouTube content] Create a handover checklist for a completed YouTube content project.
+280. [YouTube content] Help me review what I learned in this YouTube content practice project and pick one next step.
+281. [E-commerce support] Help me define the target audience, their practical need and a suitable first deliverable for E-commerce support.
+282. [E-commerce support] Create a beginner learning path for E-commerce support with three practice exercises.
+283. [E-commerce support] Draft a project brief for a clearly labeled sample project using E-commerce support.
+284. [E-commerce support] List the inputs and customer questions I need before starting E-commerce support work.
+285. [E-commerce support] Create a quality checklist for reviewing a E-commerce support deliverable before sharing.
+286. [E-commerce support] Suggest three portfolio sample ideas for E-commerce support that do not imply paid client experience.
+287. [E-commerce support] Draft a service page outline for E-commerce support using scope, process, deliverables and boundaries.
+288. [E-commerce support] Write a discovery questionnaire for a potential customer interested in E-commerce support.
+289. [E-commerce support] Create a short proposal structure for a E-commerce support project with editable placeholders.
+290. [E-commerce support] List common mistakes beginners make in E-commerce support and how to check for them.
+291. [E-commerce support] Suggest a simple workflow from customer brief to final delivery for E-commerce support.
+292. [E-commerce support] Create a feedback form to learn whether a E-commerce support deliverable met the stated brief.
+293. [E-commerce support] Rewrite this E-commerce support draft for clarity and accessibility using only these facts: [facts].
+294. [E-commerce support] Suggest accessible design and readability checks for a E-commerce support deliverable.
+295. [E-commerce support] Identify assumptions or unsupported claims in this E-commerce support draft: [draft].
+296. [E-commerce support] Create a time estimate template for E-commerce support based on tasks and revisions.
+297. [E-commerce support] Draft a respectful first message offering E-commerce support to a business that may need it.
+298. [E-commerce support] List privacy, consent, copyright and accuracy checks for this E-commerce support workflow.
+299. [E-commerce support] Create a handover checklist for a completed E-commerce support project.
+300. [E-commerce support] Help me review what I learned in this E-commerce support practice project and pick one next step.

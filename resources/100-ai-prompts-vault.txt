@@ -1,0 +1,103 @@
+THE 100 AI PROMPTS VAULT
+Practical starting prompts. Replace bracketed text with your own details. Review all output for accuracy, privacy, rights and fit before use. AI output is a draft, not proof.
+
+001. [Research] Explain [topic] in beginner language with 3 examples relevant to a small Nigerian business.
+002. [Research] List the questions a beginner should answer before offering [service] to a customer.
+003. [Research] Compare 3 approaches to [task], with benefits, limits and when each fits.
+004. [Research] Turn these notes into a clear, factual research brief: [paste notes].
+005. [Research] Suggest 5 credible ways to verify claims about [topic] before publishing.
+006. [Research] Create a step-by-step learning outline for [skill] with one small practice task per step.
+007. [Research] Summarize this source without adding facts: [paste text].
+008. [Research] Identify assumptions and missing information in this plan: [paste plan].
+009. [Research] Create a checklist to research a potential customer’s public business information ethically.
+010. [Research] Explain the difference between a useful signal and a guess in this research.
+011. [Content creation] Draft 5 post ideas for [audience] about [topic], each with a practical takeaway.
+012. [Content creation] Write a short Instagram caption in a warm, plain tone for [offer]. Avoid income promises.
+013. [Content creation] Turn this point into a 30-second video outline with a hook, 3 points and close: [point].
+014. [Content creation] Create 3 headline options that are specific and honest for [content].
+015. [Content creation] Rewrite this paragraph for a reader on a smartphone: [paragraph].
+016. [Content creation] Make a weekly content plan for [business] using education, proof and invitation themes.
+017. [Content creation] Draft a carousel outline of 6 slides teaching [topic] to beginners.
+018. [Content creation] Suggest 5 useful questions to ask readers about [topic].
+019. [Content creation] Create image-description ideas for an accessible post about [subject].
+020. [Content creation] Edit this draft for clarity and accuracy while keeping the author’s voice: [draft].
+021. [Productivity] Break [goal] into tasks that fit 30 minutes each.
+022. [Productivity] Build a simple daily checklist for completing [project] by [date].
+023. [Productivity] Find repetitive steps in this workflow and suggest safe automation candidates: [workflow].
+024. [Productivity] Turn these meeting notes into decisions, owners and next actions: [notes].
+025. [Productivity] Create a reusable brief template for [task].
+026. [Productivity] Identify what can be removed from this process without reducing quality: [process].
+027. [Productivity] Make a time-block plan for [tasks] using [available hours] per week.
+028. [Productivity] Create a quality-control checklist for [deliverable].
+029. [Productivity] Draft a polite follow-up reminder for a task due on [date].
+030. [Productivity] Summarize project risks and practical mitigations from these notes: [notes].
+031. [Customer discovery] Write 8 open-ended questions to learn how [audience] handles [problem].
+032. [Customer discovery] Create a short customer interview guide that avoids leading questions.
+033. [Customer discovery] Organize these interview notes into needs, current workarounds and exact quotes: [notes].
+034. [Customer discovery] Suggest 3 ways to test interest in [service] before investing heavily.
+035. [Customer discovery] Draft a one-sentence description of [service] for [audience].
+036. [Customer discovery] List common objections a buyer may have about [service] and honest responses.
+037. [Customer discovery] Design a small feedback form for a completed [service] project.
+038. [Customer discovery] Create a customer profile based only on these observations: [observations].
+039. [Customer discovery] Turn this problem statement into 3 possible service offers: [problem].
+040. [Customer discovery] Check this offer for vague claims or promises and rewrite them responsibly: [offer].
+041. [Design and visuals] Create a clear creative brief for a [flyer/social graphic] promoting [event].
+042. [Design and visuals] Suggest a 3-color palette with accessible contrast for a [brand type].
+043. [Design and visuals] Describe a clean layout for a [format] that prioritizes [key message].
+044. [Design and visuals] Write concise alt text for this image: [describe image].
+045. [Design and visuals] Create 4 visual directions for [brand] using simple shapes and type.
+046. [Design and visuals] Review this design description for hierarchy and readability: [description].
+047. [Design and visuals] Suggest consistent typography roles for headings, body and labels.
+048. [Design and visuals] List the content needed before designing a [deliverable].
+049. [Design and visuals] Draft a production checklist for exporting a social graphic.
+050. [Design and visuals] Write a client approval message asking for feedback on [design].
+051. [Writing and copy] Rewrite this paragraph in clear Nigerian English without changing its meaning: [text].
+052. [Writing and copy] Draft a service description naming audience, deliverable, process and next step: [service].
+053. [Writing and copy] Edit this text for grammar and readability; flag unclear facts rather than inventing them: [text].
+054. [Writing and copy] Create 3 email subject lines for [message] that are accurate and concise.
+055. [Writing and copy] Turn these features into reader-focused benefits without exaggeration: [features].
+056. [Writing and copy] Write a FAQ answer about [topic] in under 80 words.
+057. [Writing and copy] Create a simple project proposal outline for [client need].
+058. [Writing and copy] Adapt this message for WhatsApp while keeping it respectful: [message].
+059. [Writing and copy] Suggest a clear call to action for someone interested in [service].
+060. [Writing and copy] Compare this draft to the intended audience and identify tone mismatches: [draft].
+061. [Freelancing] Create a scoped deliverables list for a [service] project with clear boundaries.
+062. [Freelancing] Draft a discovery call agenda for a potential [service] client.
+063. [Freelancing] Write a proposal outline with scope, timeline, client inputs and revision terms.
+064. [Freelancing] Create a project kickoff questionnaire for [service].
+065. [Freelancing] Draft a professional note explaining a timeline change and next steps.
+066. [Freelancing] Build a handover checklist for delivering [project type].
+067. [Freelancing] List questions to clarify before quoting [project].
+068. [Freelancing] Write a friendly testimonial request that does not pressure the client.
+069. [Freelancing] Create a repeatable quality review process for [deliverable].
+070. [Freelancing] Draft a follow-up message after a client has reviewed the proposal.
+071. [E-commerce] Write a factual product description using these specifications only: [specs].
+072. [E-commerce] Create a product-page checklist for images, details, shipping and FAQs.
+073. [E-commerce] Suggest 5 customer questions that a product listing should answer.
+074. [E-commerce] Rewrite this product title to be clear and searchable without keyword stuffing: [title].
+075. [E-commerce] Outline a simple abandoned-cart reminder that is helpful, not pushy.
+076. [E-commerce] Create a packaging insert asking customers for honest feedback.
+077. [E-commerce] Organize these product attributes into a readable comparison: [attributes].
+078. [E-commerce] Draft a response to a customer asking about [policy]; use this policy text: [policy].
+079. [E-commerce] Suggest photo angles that clearly show a [product].
+080. [E-commerce] Audit this listing for unsupported claims and missing information: [listing].
+081. [Learning and planning] Create a 7-day practice schedule for [skill] with 20 minutes per day.
+082. [Learning and planning] Explain [AI concept] to a beginner and include one limitation.
+083. [Learning and planning] Make a self-check rubric for a beginner [deliverable].
+084. [Learning and planning] Turn this goal into weekly milestones and a review question: [goal].
+085. [Learning and planning] Create 5 practice briefs for learning [skill] without claiming they are real clients.
+086. [Learning and planning] Suggest free or low-cost ways to practise [skill], and tell me to verify current availability.
+087. [Learning and planning] Build a simple portfolio outline for [service] using sample work clearly labeled as sample.
+088. [Learning and planning] List the skills that should be practised before selling [service].
+089. [Learning and planning] Create a weekly reflection template for learning [skill].
+090. [Learning and planning] Help me choose one learning priority from these constraints: [time, tools, interests].
+091. [Ethical AI use] Review this draft for personal information that should be removed before using an AI tool: [draft].
+092. [Ethical AI use] List facts in this AI-generated copy that need human verification: [copy].
+093. [Ethical AI use] Create a human review checklist for [AI-supported deliverable].
+094. [Ethical AI use] Explain how to disclose AI assistance for this type of work in plain language.
+095. [Ethical AI use] Identify copyright, consent or privacy questions to check for [project].
+096. [Ethical AI use] Rewrite this prompt to exclude sensitive customer data: [prompt].
+097. [Ethical AI use] Suggest a safe way to use sample data while designing [workflow].
+098. [Ethical AI use] Check for bias risks in this content about [audience]: [content].
+099. [Ethical AI use] Draft a note asking permission to use a customer’s image or feedback.
+100. [Ethical AI use] List tasks in this workflow that should remain under human decision: [workflow].
